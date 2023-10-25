@@ -11,4 +11,5 @@ target/
 
 # Игнорирование папки .settings - настройки Maven в Eclipse IDE
 .settings/
+sh.bmp
 ```
