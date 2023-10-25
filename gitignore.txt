@@ -1,0 +1,14 @@
+# .gitignore
+
+# Игнорирование папки target - сборочные файлы Maven
+target/
+
+# Игнорирование файла .classpath - настройки пути classpath Maven
+.classpath
+
+# Игнорирование файла .project - настройки проекта Maven
+.project
+
+# Игнорирование папки .settings - настройки Maven в Eclipse IDE
+.settings/
+```
